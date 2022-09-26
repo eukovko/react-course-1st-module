@@ -1,0 +1,14 @@
+header {
+    background: navy;
+    height: 6em;
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+}
+
+header > a {
+    font-size: xx-large;
+    margin-top: 20px;
+    color: white;
+    flex: 0 0;
+}
